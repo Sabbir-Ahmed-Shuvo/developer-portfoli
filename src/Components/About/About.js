@@ -1,6 +1,6 @@
 import React from 'react';
 import './About.css';
-import myImage from '../../image/tanmoy_parvez.png';
+import myImage from '../../image/sabbir1.0.png';
 import Navbar from '../Home/Navbar/Navbar';
 
 const About = () => {

@@ -185,7 +185,7 @@ const Projects = () => {
                     ➔ I use some css library to make the site responsive 
                     </li>
                     <li>
-                    ➔ I use netlify for deploymet``.
+                    ➔ I use netlify for deploymet.
                     </li>
                 </ul>
                 <h5 className="mt-3">

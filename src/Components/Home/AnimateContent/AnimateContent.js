@@ -1,6 +1,6 @@
 import React from 'react';
 import './AnimateContent.css';
-import brandLogo from "../../../image/tanmoy_parvez2.png";
+import brandLogo from "../../../image/sabbir1.0.png";
 import Typical from 'react-typical';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faFacebook, faGithub, faLinkedinIn } from '@fortawesome/free-brands-svg-icons'
@@ -12,7 +12,7 @@ const AnimateContent = () => {
         <div className=" animateStyle">
             <div>
                 <figure className="text-center mt-5">
-                    <img className="img-fluid" style={{ height: "300px", width: "300px", borderRadius: "50%" }} src={brandLogo} alt="img" />
+                    <img className="img-fluid" style={{ height: "250px", width: "250px", borderRadius: "50%" }} src={brandLogo} alt="img" />
                 </figure>
             </div>
             <h1 className="text-white text-center textH1">I AM <span style={{ color: "#276cec" }}>SABBIR AHMED</span></h1>
